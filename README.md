@@ -1,5 +1,5 @@
 -Olá  meu nome é gabriel 
--estou começando a mexer no Gitraub
+-estou começando a mexer no Github
 - 🌱 procuro compreender muito sobre esse site
 - 💞️ gosto muito de mexer em criaçoẽs de jogos
 - 📫 para entrar em contato comigo (gb0372787@gmail.com)
