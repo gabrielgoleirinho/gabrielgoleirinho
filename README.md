@@ -13,4 +13,5 @@ gabriel.fragoso.bastos@escola.pr.gov.br
 
 Instagram: @pv_gabriel16
 
-![]([https://media2.giphy.com/media/3ohs7RkcDquVXo5uSY/giphy.gif](https://media4.giphy.com/media/Fyi1nV3Tg2sWQfNMxn/giphy.gif)https://media4.giphy.com/media/Fyi1nV3Tg2sWQfNMxn/giphy.gif)
+![](https://media4.giphy.com/media/Fyi1nV3Tg2sWQfNMxn/giphy.gif)
+
