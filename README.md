@@ -1,14 +1,17 @@
--Olá  meu nome é gabriel 
--estou começando a mexer no Github
-- 🌱 procuro compreender muito sobre esse site
-- 💞️ gosto muito de mexer em criaçoẽs de jogos
-- 📫 para entrar em contato comigo (gb0372787@gmail.com)
-- Estou estudando na alura!
-- gosto muito de fazer programaçoes
+### Boas vindas ao meu perfil 🤍
 
-![](https://i.pinimg.com/736x/cd/76/d7/cd76d793c30eb1d8afdb9193ce0b8984.jpg)
+Meu nome é Gabriel Batista Fragoso de Bastos 
 
-<!---
-gabrielgoleirinho/gabrielgoleirinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Estou estudando no Colégio Estadual do Campo Alfredo Greipel Júnior
+- Estou cursando no site [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na liguagem JavaScript e HTML
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo através do meu email 📫
+
+gabriel.fragoso.bastos@escola.pr.gov.br
+
+Instagram: @pv_gabriel16
+
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fdonnarumma-courtois-idoxzi-gif-26457221&psig=AOvVaw1NJDU-fHOqnK6mRkF1MZU3&ust=1698497975284000&source=images&cd=vfe&ved=0CBEQjRxqGAoTCLCBpJakloIDFQAAAAAdAAAAABCRAQ
